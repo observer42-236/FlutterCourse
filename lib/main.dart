@@ -5,7 +5,7 @@ void main() {
     home: Scaffold(
         backgroundColor: Colors.deepOrange,
         appBar: AppBar(
-          backgroundColor: Colors.grey,
+          backgroundColor: Colors.blueGrey,
           title: Container(
             child: Text("New Style"),
             color: Colors.indigoAccent,
