@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     home: Scaffold(
-        backgroundColor: Colors.deepOrange,
+        backgroundColor: Colors.orangeAccent,
         appBar: AppBar(
           backgroundColor: Colors.blueGrey,
           title: Container(
